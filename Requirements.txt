@@ -1,0 +1,17 @@
+dgl==2.4.0+cu121
+graphviz==0.20.3
+huggingface-hub==0.29.2
+networkx==3.4.2
+numpy==2.2.1
+pandas==2.2.3
+pydantic==2.10.4
+pydantic_core==2.27.2
+PyYAML==6.0.2
+safetensors==0.5.3
+scikit-learn==1.6.0
+scipy==1.15.0
+torch==2.6.0
+torch-geometric==2.6.1
+torchvision==0.21.0
+tqdm==4.67.1
+transformers==4.49.0
